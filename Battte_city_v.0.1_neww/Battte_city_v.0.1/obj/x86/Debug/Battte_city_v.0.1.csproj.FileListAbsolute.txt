@@ -1,0 +1,823 @@
+c:\users\калинин\documents\visual studio 2013\Projects\Battte_city_v.0.1\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\ApplicationIcon.png
+c:\users\калинин\documents\visual studio 2013\Projects\Battte_city_v.0.1\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\калинин\documents\visual studio 2013\Projects\Battte_city_v.0.1\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\калинин\documents\visual studio 2013\Projects\Battte_city_v.0.1\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\калинин\documents\visual studio 2013\Projects\Battte_city_v.0.1\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\калинин\documents\visual studio 2013\Projects\Battte_city_v.0.1\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\калинин\documents\visual studio 2013\Projects\Battte_city_v.0.1\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Battte_city_v.0.1.dll
+c:\users\калинин\documents\visual studio 2013\Projects\Battte_city_v.0.1\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Battte_city_v.0.1.pdb
+c:\users\калинин\documents\visual studio 2013\Projects\Battte_city_v.0.1\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\AppManifest.xaml
+c:\users\калинин\documents\visual studio 2013\Projects\Battte_city_v.0.1\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Properties\WMAppManifest.xml
+c:\users\калинин\documents\visual studio 2013\Projects\Battte_city_v.0.1\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Battte_city_v._0._1_Debug_x86.xap
+c:\users\калинин\documents\visual studio 2013\Projects\Battte_city_v.0.1\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\MonoGame.Framework.dll
+c:\users\калинин\documents\visual studio 2013\Projects\Battte_city_v.0.1\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.dll
+c:\users\калинин\documents\visual studio 2013\Projects\Battte_city_v.0.1\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.Direct3D11.dll
+c:\users\калинин\documents\visual studio 2013\Projects\Battte_city_v.0.1\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.XAudio2.dll
+c:\users\калинин\documents\visual studio 2013\Projects\Battte_city_v.0.1\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.DXGI.dll
+c:\users\калинин\documents\visual studio 2013\Projects\Battte_city_v.0.1\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.WP8.winmd
+c:\users\калинин\documents\visual studio 2013\Projects\Battte_city_v.0.1\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.xml
+c:\users\калинин\documents\visual studio 2013\Projects\Battte_city_v.0.1\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.Direct3D11.xml
+c:\users\калинин\documents\visual studio 2013\Projects\Battte_city_v.0.1\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.XAudio2.xml
+c:\users\калинин\documents\visual studio 2013\Projects\Battte_city_v.0.1\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.DXGI.xml
+c:\users\калинин\documents\visual studio 2013\Projects\Battte_city_v.0.1\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.WP8.dll
+c:\users\калинин\documents\visual studio 2013\Projects\Battte_city_v.0.1\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.csprojResolveAssemblyReference.cache
+c:\users\калинин\documents\visual studio 2013\Projects\Battte_city_v.0.1\Battte_city_v.0.1\obj\x86\Debug\App.g.cs
+c:\users\калинин\documents\visual studio 2013\Projects\Battte_city_v.0.1\Battte_city_v.0.1\obj\x86\Debug\GamePage.g.cs
+c:\users\калинин\documents\visual studio 2013\Projects\Battte_city_v.0.1\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.g.resources
+c:\users\калинин\documents\visual studio 2013\Projects\Battte_city_v.0.1\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v._0._1.Resources.AppResources.resources
+c:\users\калинин\documents\visual studio 2013\Projects\Battte_city_v.0.1\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.csproj.GenerateResource.Cache
+c:\users\калинин\documents\visual studio 2013\Projects\Battte_city_v.0.1\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.dll
+c:\users\калинин\documents\visual studio 2013\Projects\Battte_city_v.0.1\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.pdb
+c:\users\калинин\documents\visual studio 2013\Projects\Battte_city_v.0.1\Battte_city_v.0.1\obj\x86\Debug\XapCacheFile.xml
+c:\users\калинин\documents\visual studio 2013\Projects\Battte_city_v.0.1\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\explosion.xnb
+c:\users\калинин\documents\visual studio 2013\Projects\Battte_city_v.0.1\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\bot.xnb
+c:\users\калинин\documents\visual studio 2013\Projects\Battte_city_v.0.1\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\rocket.xnb
+c:\users\калинин\documents\visual studio 2013\Projects\Battte_city_v.0.1\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\стена25.xnb
+c:\users\калинин\documents\visual studio 2013\Projects\Battte_city_v.0.1\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\Танчик25(2).xnb
+C:\Users\калинин\documents\visual studio 2013\Projects\Battte_city_v.0.1\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\rocket_bot.xnb
+C:\Users\калинин\documents\visual studio 2013\Projects\Battte_city_v.0.1\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\gameover.xnb
+C:\Users\Сергей\Downloads\Battte_city_v.0.1\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\explosion.xnb
+C:\Users\Сергей\Downloads\Battte_city_v.0.1\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\bot.xnb
+C:\Users\Сергей\Downloads\Battte_city_v.0.1\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\rocket.xnb
+C:\Users\Сергей\Downloads\Battte_city_v.0.1\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\стена25.xnb
+C:\Users\Сергей\Downloads\Battte_city_v.0.1\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\Танчик25(2).xnb
+C:\Users\Сергей\Downloads\Battte_city_v.0.1\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\rocket_bot.xnb
+C:\Users\Сергей\Downloads\Battte_city_v.0.1\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\gameover.xnb
+C:\Users\Сергей\Downloads\Battte_city_v.0.1\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\ApplicationIcon.png
+C:\Users\Сергей\Downloads\Battte_city_v.0.1\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Сергей\Downloads\Battte_city_v.0.1\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Сергей\Downloads\Battte_city_v.0.1\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Сергей\Downloads\Battte_city_v.0.1\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Сергей\Downloads\Battte_city_v.0.1\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Сергей\Downloads\Battte_city_v.0.1\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Battte_city_v.0.1.dll
+C:\Users\Сергей\Downloads\Battte_city_v.0.1\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Battte_city_v.0.1.pdb
+C:\Users\Сергей\Downloads\Battte_city_v.0.1\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\AppManifest.xaml
+C:\Users\Сергей\Downloads\Battte_city_v.0.1\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Properties\WMAppManifest.xml
+C:\Users\Сергей\Downloads\Battte_city_v.0.1\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Battte_city_v._0._1_Debug_x86.xap
+C:\Users\Сергей\Downloads\Battte_city_v.0.1\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\MonoGame.Framework.dll
+C:\Users\Сергей\Downloads\Battte_city_v.0.1\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.dll
+C:\Users\Сергей\Downloads\Battte_city_v.0.1\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Сергей\Downloads\Battte_city_v.0.1\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Сергей\Downloads\Battte_city_v.0.1\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Сергей\Downloads\Battte_city_v.0.1\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.WP8.winmd
+C:\Users\Сергей\Downloads\Battte_city_v.0.1\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.xml
+C:\Users\Сергей\Downloads\Battte_city_v.0.1\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Сергей\Downloads\Battte_city_v.0.1\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Сергей\Downloads\Battte_city_v.0.1\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Сергей\Downloads\Battte_city_v.0.1\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.WP8.dll
+C:\Users\Сергей\Downloads\Battte_city_v.0.1\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Downloads\Battte_city_v.0.1\Battte_city_v.0.1\obj\x86\Debug\App.g.cs
+C:\Users\Сергей\Downloads\Battte_city_v.0.1\Battte_city_v.0.1\obj\x86\Debug\GamePage.g.cs
+C:\Users\Сергей\Downloads\Battte_city_v.0.1\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.g.resources
+C:\Users\Сергей\Downloads\Battte_city_v.0.1\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v._0._1.Resources.AppResources.resources
+C:\Users\Сергей\Downloads\Battte_city_v.0.1\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.csproj.GenerateResource.Cache
+C:\Users\Сергей\Downloads\Battte_city_v.0.1\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.dll
+C:\Users\Сергей\Downloads\Battte_city_v.0.1\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.pdb
+C:\Users\Сергей\Downloads\Battte_city_v.0.1\Battte_city_v.0.1\obj\x86\Debug\XapCacheFile.xml
+C:\Users\Сергей\Downloads\Battte_city_v.0.1\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\бетон25.xnb
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_newmap\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\explosion.xnb
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_newmap\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\bot.xnb
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_newmap\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\rocket.xnb
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_newmap\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\стена25.xnb
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_newmap\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\Танчик25(2).xnb
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_newmap\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\rocket_bot.xnb
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_newmap\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\gameover.xnb
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_newmap\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\бетон25.xnb
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_newmap\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\ApplicationIcon.png
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_newmap\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_newmap\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_newmap\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_newmap\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_newmap\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_newmap\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Battte_city_v.0.1.dll
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_newmap\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Battte_city_v.0.1.pdb
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_newmap\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\AppManifest.xaml
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_newmap\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Properties\WMAppManifest.xml
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_newmap\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Battte_city_v._0._1_Debug_x86.xap
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_newmap\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\MonoGame.Framework.dll
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_newmap\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.dll
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_newmap\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_newmap\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_newmap\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_newmap\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.WP8.winmd
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_newmap\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.xml
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_newmap\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_newmap\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_newmap\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_newmap\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.WP8.dll
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_newmap\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_newmap\Battte_city_v.0.1\obj\x86\Debug\App.g.cs
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_newmap\Battte_city_v.0.1\obj\x86\Debug\GamePage.g.cs
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_newmap\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.g.resources
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_newmap\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v._0._1.Resources.AppResources.resources
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_newmap\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.csproj.GenerateResource.Cache
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_newmap\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.dll
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_newmap\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.pdb
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_newmap\Battte_city_v.0.1\obj\x86\Debug\XapCacheFile.xml
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_NW\Battte_city_v.0.1_NW\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\explosion.xnb
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_NW\Battte_city_v.0.1_NW\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\rocket.xnb
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_NW\Battte_city_v.0.1_NW\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\rocket_bot.xnb
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_NW\Battte_city_v.0.1_NW\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\gameover.xnb
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_NW\Battte_city_v.0.1_NW\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\ApplicationIcon.png
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_NW\Battte_city_v.0.1_NW\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_NW\Battte_city_v.0.1_NW\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_NW\Battte_city_v.0.1_NW\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_NW\Battte_city_v.0.1_NW\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_NW\Battte_city_v.0.1_NW\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_NW\Battte_city_v.0.1_NW\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Battte_city_v.0.1.dll
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_NW\Battte_city_v.0.1_NW\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Battte_city_v.0.1.pdb
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_NW\Battte_city_v.0.1_NW\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\AppManifest.xaml
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_NW\Battte_city_v.0.1_NW\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Properties\WMAppManifest.xml
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_NW\Battte_city_v.0.1_NW\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Battte_city_v._0._1_Debug_x86.xap
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_NW\Battte_city_v.0.1_NW\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\MonoGame.Framework.dll
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_NW\Battte_city_v.0.1_NW\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.dll
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_NW\Battte_city_v.0.1_NW\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_NW\Battte_city_v.0.1_NW\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_NW\Battte_city_v.0.1_NW\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.DXGI.dll
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_NW\Battte_city_v.0.1_NW\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.WP8.winmd
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_NW\Battte_city_v.0.1_NW\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.xml
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_NW\Battte_city_v.0.1_NW\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_NW\Battte_city_v.0.1_NW\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_NW\Battte_city_v.0.1_NW\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.DXGI.xml
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_NW\Battte_city_v.0.1_NW\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.WP8.dll
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_NW\Battte_city_v.0.1_NW\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.csprojResolveAssemblyReference.cache
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_NW\Battte_city_v.0.1_NW\Battte_city_v.0.1\obj\x86\Debug\App.g.cs
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_NW\Battte_city_v.0.1_NW\Battte_city_v.0.1\obj\x86\Debug\GamePage.g.cs
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_NW\Battte_city_v.0.1_NW\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.g.resources
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_NW\Battte_city_v.0.1_NW\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v._0._1.Resources.AppResources.resources
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_NW\Battte_city_v.0.1_NW\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.csproj.GenerateResource.Cache
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_NW\Battte_city_v.0.1_NW\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.dll
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_NW\Battte_city_v.0.1_NW\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.pdb
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_NW\Battte_city_v.0.1_NW\Battte_city_v.0.1\obj\x86\Debug\XapCacheFile.xml
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_NW\Battte_city_v.0.1_NW\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\explosprite.xnb
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_NW\Battte_city_v.0.1_NW\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\бетон30.xnb
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_NW\Battte_city_v.0.1_NW\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\орел30.xnb
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_NW\Battte_city_v.0.1_NW\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\стена30.xnb
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_NW\Battte_city_v.0.1_NW\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\Танчик30(2).xnb
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_NW\Battte_city_v.0.1_NW\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\взрыв6357.xnb
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_neww (1)\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\explosion.xnb
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_neww (1)\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\rocket.xnb
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_neww (1)\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\rocket_bot.xnb
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_neww (1)\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\gameover.xnb
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_neww (1)\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\explosprite.xnb
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_neww (1)\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\бетон30.xnb
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_neww (1)\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\орел30.xnb
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_neww (1)\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\стена30.xnb
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_neww (1)\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\Танчик30(2).xnb
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_neww (1)\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\взрыв6357.xnb
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_neww (1)\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\ApplicationIcon.png
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_neww (1)\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_neww (1)\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_neww (1)\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_neww (1)\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_neww (1)\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_neww (1)\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Battte_city_v.0.1.dll
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_neww (1)\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Battte_city_v.0.1.pdb
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_neww (1)\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\AppManifest.xaml
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_neww (1)\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Properties\WMAppManifest.xml
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_neww (1)\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Battte_city_v._0._1_Debug_x86.xap
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_neww (1)\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\MonoGame.Framework.dll
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_neww (1)\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.dll
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_neww (1)\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_neww (1)\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_neww (1)\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.DXGI.dll
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_neww (1)\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.WP8.winmd
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_neww (1)\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.xml
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_neww (1)\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_neww (1)\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_neww (1)\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.DXGI.xml
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_neww (1)\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.WP8.dll
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_neww (1)\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.csprojResolveAssemblyReference.cache
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_neww (1)\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\App.g.cs
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_neww (1)\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\GamePage.g.cs
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_neww (1)\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.g.resources
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_neww (1)\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v._0._1.Resources.AppResources.resources
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_neww (1)\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.csproj.GenerateResource.Cache
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_neww (1)\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.dll
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_neww (1)\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.pdb
+C:\Users\калинин\Desktop\все файлы игры в танчики\Battte_city_v.0.1_neww (1)\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\XapCacheFile.xml
+C:\Users\Сергей\Desktop\30.10\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\explosion.xnb
+C:\Users\Сергей\Desktop\30.10\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\rocket.xnb
+C:\Users\Сергей\Desktop\30.10\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\rocket_bot.xnb
+C:\Users\Сергей\Desktop\30.10\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\gameover.xnb
+C:\Users\Сергей\Desktop\30.10\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\explosprite.xnb
+C:\Users\Сергей\Desktop\30.10\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\бетон30.xnb
+C:\Users\Сергей\Desktop\30.10\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\орел30.xnb
+C:\Users\Сергей\Desktop\30.10\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\стена30.xnb
+C:\Users\Сергей\Desktop\30.10\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\Танчик30(2).xnb
+C:\Users\Сергей\Desktop\30.10\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\взрыв6357.xnb
+C:\Users\Сергей\Desktop\30.10\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\ApplicationIcon.png
+C:\Users\Сергей\Desktop\30.10\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Сергей\Desktop\30.10\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Сергей\Desktop\30.10\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Сергей\Desktop\30.10\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Сергей\Desktop\30.10\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Сергей\Desktop\30.10\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Battte_city_v.0.1.dll
+C:\Users\Сергей\Desktop\30.10\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Battte_city_v.0.1.pdb
+C:\Users\Сергей\Desktop\30.10\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\AppManifest.xaml
+C:\Users\Сергей\Desktop\30.10\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Properties\WMAppManifest.xml
+C:\Users\Сергей\Desktop\30.10\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Battte_city_v._0._1_Debug_x86.xap
+C:\Users\Сергей\Desktop\30.10\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\MonoGame.Framework.dll
+C:\Users\Сергей\Desktop\30.10\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.dll
+C:\Users\Сергей\Desktop\30.10\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Сергей\Desktop\30.10\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Сергей\Desktop\30.10\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Сергей\Desktop\30.10\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.WP8.winmd
+C:\Users\Сергей\Desktop\30.10\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.xml
+C:\Users\Сергей\Desktop\30.10\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Сергей\Desktop\30.10\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Сергей\Desktop\30.10\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Сергей\Desktop\30.10\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.WP8.dll
+C:\Users\Сергей\Desktop\30.10\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\30.10\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\App.g.cs
+C:\Users\Сергей\Desktop\30.10\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\GamePage.g.cs
+C:\Users\Сергей\Desktop\30.10\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.g.resources
+C:\Users\Сергей\Desktop\30.10\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v._0._1.Resources.AppResources.resources
+C:\Users\Сергей\Desktop\30.10\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.csproj.GenerateResource.Cache
+C:\Users\Сергей\Desktop\30.10\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.dll
+C:\Users\Сергей\Desktop\30.10\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.pdb
+C:\Users\Сергей\Desktop\30.10\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\XapCacheFile.xml
+C:\Users\Сергей\Desktop\30.10\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\test.xnb
+C:\Users\калинин\Desktop\30.10new (1)\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\explosion.xnb
+C:\Users\калинин\Desktop\30.10new (1)\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\rocket.xnb
+C:\Users\калинин\Desktop\30.10new (1)\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\rocket_bot.xnb
+C:\Users\калинин\Desktop\30.10new (1)\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\gameover.xnb
+C:\Users\калинин\Desktop\30.10new (1)\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\explosprite.xnb
+C:\Users\калинин\Desktop\30.10new (1)\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\бетон30.xnb
+C:\Users\калинин\Desktop\30.10new (1)\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\орел30.xnb
+C:\Users\калинин\Desktop\30.10new (1)\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\стена30.xnb
+C:\Users\калинин\Desktop\30.10new (1)\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\Танчик30(2).xnb
+C:\Users\калинин\Desktop\30.10new (1)\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\взрыв6357.xnb
+C:\Users\калинин\Desktop\30.10new (1)\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\test.xnb
+C:\Users\калинин\Desktop\30.10new (1)\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\ApplicationIcon.png
+C:\Users\калинин\Desktop\30.10new (1)\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\калинин\Desktop\30.10new (1)\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\калинин\Desktop\30.10new (1)\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\калинин\Desktop\30.10new (1)\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\калинин\Desktop\30.10new (1)\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\калинин\Desktop\30.10new (1)\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Battte_city_v.0.1.dll
+C:\Users\калинин\Desktop\30.10new (1)\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Battte_city_v.0.1.pdb
+C:\Users\калинин\Desktop\30.10new (1)\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\AppManifest.xaml
+C:\Users\калинин\Desktop\30.10new (1)\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Properties\WMAppManifest.xml
+C:\Users\калинин\Desktop\30.10new (1)\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Battte_city_v._0._1_Debug_x86.xap
+C:\Users\калинин\Desktop\30.10new (1)\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\MonoGame.Framework.dll
+C:\Users\калинин\Desktop\30.10new (1)\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.dll
+C:\Users\калинин\Desktop\30.10new (1)\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\калинин\Desktop\30.10new (1)\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\калинин\Desktop\30.10new (1)\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.DXGI.dll
+C:\Users\калинин\Desktop\30.10new (1)\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.WP8.winmd
+C:\Users\калинин\Desktop\30.10new (1)\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.xml
+C:\Users\калинин\Desktop\30.10new (1)\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\калинин\Desktop\30.10new (1)\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\калинин\Desktop\30.10new (1)\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.DXGI.xml
+C:\Users\калинин\Desktop\30.10new (1)\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.WP8.dll
+C:\Users\калинин\Desktop\30.10new (1)\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.csprojResolveAssemblyReference.cache
+C:\Users\калинин\Desktop\30.10new (1)\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\App.g.cs
+C:\Users\калинин\Desktop\30.10new (1)\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\GamePage.g.cs
+C:\Users\калинин\Desktop\30.10new (1)\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.g.resources
+C:\Users\калинин\Desktop\30.10new (1)\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v._0._1.Resources.AppResources.resources
+C:\Users\калинин\Desktop\30.10new (1)\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.csproj.GenerateResource.Cache
+C:\Users\калинин\Desktop\30.10new (1)\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.dll
+C:\Users\калинин\Desktop\30.10new (1)\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.pdb
+C:\Users\калинин\Desktop\30.10new (1)\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\XapCacheFile.xml
+C:\Users\калинин\Desktop\30.10new (1)\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\star.xnb
+C:\Users\калинин\Desktop\30.10new (1)\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\defend.xnb
+C:\Users\калинин\Desktop\30.10new (1)\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\live.xnb
+C:\Users\Сергей\Downloads\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\explosion.xnb
+C:\Users\Сергей\Downloads\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\rocket.xnb
+C:\Users\Сергей\Downloads\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\rocket_bot.xnb
+C:\Users\Сергей\Downloads\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\explosprite.xnb
+C:\Users\Сергей\Downloads\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\бетон30.xnb
+C:\Users\Сергей\Downloads\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\орел30.xnb
+C:\Users\Сергей\Downloads\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\стена30.xnb
+C:\Users\Сергей\Downloads\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\Танчик30(2).xnb
+C:\Users\Сергей\Downloads\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\взрыв6357.xnb
+C:\Users\Сергей\Downloads\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\test.xnb
+C:\Users\Сергей\Downloads\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\defend.xnb
+C:\Users\Сергей\Downloads\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\star.xnb
+C:\Users\Сергей\Downloads\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\live.xnb
+C:\Users\Сергей\Downloads\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\ApplicationIcon.png
+C:\Users\Сергей\Downloads\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Сергей\Downloads\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Сергей\Downloads\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Сергей\Downloads\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Сергей\Downloads\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Сергей\Downloads\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Battte_city_v.0.1.dll
+C:\Users\Сергей\Downloads\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Battte_city_v.0.1.pdb
+C:\Users\Сергей\Downloads\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\AppManifest.xaml
+C:\Users\Сергей\Downloads\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Properties\WMAppManifest.xml
+C:\Users\Сергей\Downloads\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Battte_city_v._0._1_Debug_x86.xap
+C:\Users\Сергей\Downloads\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\MonoGame.Framework.dll
+C:\Users\Сергей\Downloads\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.dll
+C:\Users\Сергей\Downloads\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Сергей\Downloads\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Сергей\Downloads\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Сергей\Downloads\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.WP8.winmd
+C:\Users\Сергей\Downloads\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.xml
+C:\Users\Сергей\Downloads\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Сергей\Downloads\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Сергей\Downloads\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Сергей\Downloads\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.WP8.dll
+C:\Users\Сергей\Downloads\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Downloads\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\App.g.cs
+C:\Users\Сергей\Downloads\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\GamePage.g.cs
+C:\Users\Сергей\Downloads\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.g.resources
+C:\Users\Сергей\Downloads\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v._0._1.Resources.AppResources.resources
+C:\Users\Сергей\Downloads\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.csproj.GenerateResource.Cache
+C:\Users\Сергей\Downloads\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.dll
+C:\Users\Сергей\Downloads\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.pdb
+C:\Users\Сергей\Downloads\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\XapCacheFile.xml
+C:\Users\Сергей\Downloads\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\gameover2.xnb
+C:\Users\Сергей\Downloads\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\tankblack15.xnb
+C:\Users\Сергей\Downloads\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\gray30.xnb
+C:\Users\калинин\Desktop\30.10.999new\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\explosion.xnb
+C:\Users\калинин\Desktop\30.10.999new\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\rocket.xnb
+C:\Users\калинин\Desktop\30.10.999new\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\rocket_bot.xnb
+C:\Users\калинин\Desktop\30.10.999new\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\explosprite.xnb
+C:\Users\калинин\Desktop\30.10.999new\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\бетон30.xnb
+C:\Users\калинин\Desktop\30.10.999new\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\орел30.xnb
+C:\Users\калинин\Desktop\30.10.999new\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\стена30.xnb
+C:\Users\калинин\Desktop\30.10.999new\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\Танчик30(2).xnb
+C:\Users\калинин\Desktop\30.10.999new\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\взрыв6357.xnb
+C:\Users\калинин\Desktop\30.10.999new\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\test.xnb
+C:\Users\калинин\Desktop\30.10.999new\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\defend.xnb
+C:\Users\калинин\Desktop\30.10.999new\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\star.xnb
+C:\Users\калинин\Desktop\30.10.999new\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\live.xnb
+C:\Users\калинин\Desktop\30.10.999new\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\gameover2.xnb
+C:\Users\калинин\Desktop\30.10.999new\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\tankblack15.xnb
+C:\Users\калинин\Desktop\30.10.999new\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\gray30.xnb
+C:\Users\калинин\Desktop\30.10.999new\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\ApplicationIcon.png
+C:\Users\калинин\Desktop\30.10.999new\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\калинин\Desktop\30.10.999new\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\калинин\Desktop\30.10.999new\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\калинин\Desktop\30.10.999new\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\калинин\Desktop\30.10.999new\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\калинин\Desktop\30.10.999new\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Battte_city_v.0.1.dll
+C:\Users\калинин\Desktop\30.10.999new\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Battte_city_v.0.1.pdb
+C:\Users\калинин\Desktop\30.10.999new\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\AppManifest.xaml
+C:\Users\калинин\Desktop\30.10.999new\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Properties\WMAppManifest.xml
+C:\Users\калинин\Desktop\30.10.999new\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Battte_city_v._0._1_Debug_x86.xap
+C:\Users\калинин\Desktop\30.10.999new\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\MonoGame.Framework.dll
+C:\Users\калинин\Desktop\30.10.999new\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.dll
+C:\Users\калинин\Desktop\30.10.999new\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\калинин\Desktop\30.10.999new\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\калинин\Desktop\30.10.999new\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.DXGI.dll
+C:\Users\калинин\Desktop\30.10.999new\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.WP8.winmd
+C:\Users\калинин\Desktop\30.10.999new\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.xml
+C:\Users\калинин\Desktop\30.10.999new\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\калинин\Desktop\30.10.999new\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\калинин\Desktop\30.10.999new\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.DXGI.xml
+C:\Users\калинин\Desktop\30.10.999new\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.WP8.dll
+C:\Users\калинин\Desktop\30.10.999new\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.csprojResolveAssemblyReference.cache
+C:\Users\калинин\Desktop\30.10.999new\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\App.g.cs
+C:\Users\калинин\Desktop\30.10.999new\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\GamePage.g.cs
+C:\Users\калинин\Desktop\30.10.999new\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.g.resources
+C:\Users\калинин\Desktop\30.10.999new\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v._0._1.Resources.AppResources.resources
+C:\Users\калинин\Desktop\30.10.999new\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.csproj.GenerateResource.Cache
+C:\Users\калинин\Desktop\30.10.999new\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.dll
+C:\Users\калинин\Desktop\30.10.999new\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.pdb
+C:\Users\калинин\Desktop\30.10.999new\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\XapCacheFile.xml
+C:\Users\калинин\Desktop\30.10.999new\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\танквраг30.xnb
+C:\Users\калинин\Desktop\30.10.999new\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\0.xnb
+C:\Users\калинин\Desktop\30.10.999new\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\1.xnb
+C:\Users\калинин\Desktop\30.10.999new\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\2.xnb
+C:\Users\калинин\Desktop\30.10.999new\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\3.xnb
+C:\Users\калинин\Desktop\30.10.999new\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\4.xnb
+C:\Users\калинин\Desktop\30.10.999new\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\5.xnb
+C:\Users\калинин\Desktop\30.10.999new\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\50высота.xnb
+C:\Users\калинин\Desktop\30.10.999new\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\6.xnb
+C:\Users\калинин\Desktop\30.10.999new\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\7.xnb
+C:\Users\калинин\Desktop\30.10.999new\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\8.xnb
+C:\Users\калинин\Desktop\30.10.999new\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\9.xnb
+C:\Users\Сергей\Downloads\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\explosion.xnb
+C:\Users\Сергей\Downloads\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\rocket.xnb
+C:\Users\Сергей\Downloads\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\rocket_bot.xnb
+C:\Users\Сергей\Downloads\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\explosprite.xnb
+C:\Users\Сергей\Downloads\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\бетон30.xnb
+C:\Users\Сергей\Downloads\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\орел30.xnb
+C:\Users\Сергей\Downloads\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\стена30.xnb
+C:\Users\Сергей\Downloads\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\Танчик30(2).xnb
+C:\Users\Сергей\Downloads\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\взрыв6357.xnb
+C:\Users\Сергей\Downloads\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\test.xnb
+C:\Users\Сергей\Downloads\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\defend.xnb
+C:\Users\Сергей\Downloads\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\star.xnb
+C:\Users\Сергей\Downloads\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\live.xnb
+C:\Users\Сергей\Downloads\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\gameover2.xnb
+C:\Users\Сергей\Downloads\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\tankblack15.xnb
+C:\Users\Сергей\Downloads\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\gray30.xnb
+C:\Users\Сергей\Downloads\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\танквраг30.xnb
+C:\Users\Сергей\Downloads\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\0.xnb
+C:\Users\Сергей\Downloads\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\1.xnb
+C:\Users\Сергей\Downloads\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\2.xnb
+C:\Users\Сергей\Downloads\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\3.xnb
+C:\Users\Сергей\Downloads\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\4.xnb
+C:\Users\Сергей\Downloads\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\5.xnb
+C:\Users\Сергей\Downloads\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\50высота.xnb
+C:\Users\Сергей\Downloads\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\6.xnb
+C:\Users\Сергей\Downloads\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\7.xnb
+C:\Users\Сергей\Downloads\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\8.xnb
+C:\Users\Сергей\Downloads\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\9.xnb
+C:\Users\Сергей\Downloads\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\ApplicationIcon.png
+C:\Users\Сергей\Downloads\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Сергей\Downloads\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Сергей\Downloads\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Сергей\Downloads\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Сергей\Downloads\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Сергей\Downloads\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Battte_city_v.0.1.dll
+C:\Users\Сергей\Downloads\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Battte_city_v.0.1.pdb
+C:\Users\Сергей\Downloads\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\AppManifest.xaml
+C:\Users\Сергей\Downloads\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Properties\WMAppManifest.xml
+C:\Users\Сергей\Downloads\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Battte_city_v._0._1_Debug_x86.xap
+C:\Users\Сергей\Downloads\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\MonoGame.Framework.dll
+C:\Users\Сергей\Downloads\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.dll
+C:\Users\Сергей\Downloads\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Сергей\Downloads\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Сергей\Downloads\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Сергей\Downloads\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.WP8.winmd
+C:\Users\Сергей\Downloads\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.xml
+C:\Users\Сергей\Downloads\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Сергей\Downloads\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Сергей\Downloads\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Сергей\Downloads\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.WP8.dll
+C:\Users\Сергей\Downloads\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Downloads\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\App.g.cs
+C:\Users\Сергей\Downloads\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\GamePage.g.cs
+C:\Users\Сергей\Downloads\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.g.resources
+C:\Users\Сергей\Downloads\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v._0._1.Resources.AppResources.resources
+C:\Users\Сергей\Downloads\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.csproj.GenerateResource.Cache
+C:\Users\Сергей\Downloads\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.dll
+C:\Users\Сергей\Downloads\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.pdb
+C:\Users\Сергей\Downloads\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\XapCacheFile.xml
+C:\Users\Сергей\Desktop\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\explosion.xnb
+C:\Users\Сергей\Desktop\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\rocket.xnb
+C:\Users\Сергей\Desktop\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\rocket_bot.xnb
+C:\Users\Сергей\Desktop\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\explosprite.xnb
+C:\Users\Сергей\Desktop\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\бетон30.xnb
+C:\Users\Сергей\Desktop\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\орел30.xnb
+C:\Users\Сергей\Desktop\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\стена30.xnb
+C:\Users\Сергей\Desktop\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\Танчик30(2).xnb
+C:\Users\Сергей\Desktop\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\взрыв6357.xnb
+C:\Users\Сергей\Desktop\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\test.xnb
+C:\Users\Сергей\Desktop\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\defend.xnb
+C:\Users\Сергей\Desktop\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\star.xnb
+C:\Users\Сергей\Desktop\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\live.xnb
+C:\Users\Сергей\Desktop\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\gameover2.xnb
+C:\Users\Сергей\Desktop\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\tankblack15.xnb
+C:\Users\Сергей\Desktop\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\gray30.xnb
+C:\Users\Сергей\Desktop\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\танквраг30.xnb
+C:\Users\Сергей\Desktop\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\0.xnb
+C:\Users\Сергей\Desktop\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\1.xnb
+C:\Users\Сергей\Desktop\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\2.xnb
+C:\Users\Сергей\Desktop\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\3.xnb
+C:\Users\Сергей\Desktop\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\4.xnb
+C:\Users\Сергей\Desktop\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\5.xnb
+C:\Users\Сергей\Desktop\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\50высота.xnb
+C:\Users\Сергей\Desktop\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\6.xnb
+C:\Users\Сергей\Desktop\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\7.xnb
+C:\Users\Сергей\Desktop\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\8.xnb
+C:\Users\Сергей\Desktop\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\9.xnb
+C:\Users\Сергей\Desktop\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\ApplicationIcon.png
+C:\Users\Сергей\Desktop\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Сергей\Desktop\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Сергей\Desktop\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Сергей\Desktop\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Сергей\Desktop\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Сергей\Desktop\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Battte_city_v.0.1.dll
+C:\Users\Сергей\Desktop\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Battte_city_v.0.1.pdb
+C:\Users\Сергей\Desktop\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\AppManifest.xaml
+C:\Users\Сергей\Desktop\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Properties\WMAppManifest.xml
+C:\Users\Сергей\Desktop\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Battte_city_v._0._1_Debug_x86.xap
+C:\Users\Сергей\Desktop\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\MonoGame.Framework.dll
+C:\Users\Сергей\Desktop\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.dll
+C:\Users\Сергей\Desktop\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Сергей\Desktop\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Сергей\Desktop\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Сергей\Desktop\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.WP8.winmd
+C:\Users\Сергей\Desktop\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.xml
+C:\Users\Сергей\Desktop\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Сергей\Desktop\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Сергей\Desktop\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Сергей\Desktop\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.WP8.dll
+C:\Users\Сергей\Desktop\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\App.g.cs
+C:\Users\Сергей\Desktop\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\GamePage.g.cs
+C:\Users\Сергей\Desktop\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.g.resources
+C:\Users\Сергей\Desktop\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v._0._1.Resources.AppResources.resources
+C:\Users\Сергей\Desktop\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.csproj.GenerateResource.Cache
+C:\Users\Сергей\Desktop\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.dll
+C:\Users\Сергей\Desktop\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.pdb
+C:\Users\Сергей\Desktop\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\XapCacheFile.xml
+C:\Users\Сергей\Desktop\11.11\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\explosion.xnb
+C:\Users\Сергей\Desktop\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\rocket.xnb
+C:\Users\Сергей\Desktop\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\rocket_bot.xnb
+C:\Users\Сергей\Desktop\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\explosprite.xnb
+C:\Users\Сергей\Desktop\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\бетон30.xnb
+C:\Users\Сергей\Desktop\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\орел30.xnb
+C:\Users\Сергей\Desktop\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\стена30.xnb
+C:\Users\Сергей\Desktop\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\Танчик30(2).xnb
+C:\Users\Сергей\Desktop\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\взрыв6357.xnb
+C:\Users\Сергей\Desktop\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\test.xnb
+C:\Users\Сергей\Desktop\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\defend.xnb
+C:\Users\Сергей\Desktop\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\star.xnb
+C:\Users\Сергей\Desktop\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\live.xnb
+C:\Users\Сергей\Desktop\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\gameover2.xnb
+C:\Users\Сергей\Desktop\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\tankblack15.xnb
+C:\Users\Сергей\Desktop\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\gray30.xnb
+C:\Users\Сергей\Desktop\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\танквраг30.xnb
+C:\Users\Сергей\Desktop\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\0.xnb
+C:\Users\Сергей\Desktop\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\1.xnb
+C:\Users\Сергей\Desktop\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\2.xnb
+C:\Users\Сергей\Desktop\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\3.xnb
+C:\Users\Сергей\Desktop\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\4.xnb
+C:\Users\Сергей\Desktop\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\5.xnb
+C:\Users\Сергей\Desktop\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\50высота.xnb
+C:\Users\Сергей\Desktop\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\6.xnb
+C:\Users\Сергей\Desktop\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\7.xnb
+C:\Users\Сергей\Desktop\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\8.xnb
+C:\Users\Сергей\Desktop\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\9.xnb
+C:\Users\Сергей\Desktop\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\ApplicationIcon.png
+C:\Users\Сергей\Desktop\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Сергей\Desktop\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Сергей\Desktop\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Сергей\Desktop\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Сергей\Desktop\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Сергей\Desktop\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Battte_city_v.0.1.dll
+C:\Users\Сергей\Desktop\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Battte_city_v.0.1.pdb
+C:\Users\Сергей\Desktop\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\AppManifest.xaml
+C:\Users\Сергей\Desktop\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Properties\WMAppManifest.xml
+C:\Users\Сергей\Desktop\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Battte_city_v._0._1_Debug_x86.xap
+C:\Users\Сергей\Desktop\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\MonoGame.Framework.dll
+C:\Users\Сергей\Desktop\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.dll
+C:\Users\Сергей\Desktop\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Сергей\Desktop\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Сергей\Desktop\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Сергей\Desktop\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.WP8.winmd
+C:\Users\Сергей\Desktop\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.xml
+C:\Users\Сергей\Desktop\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Сергей\Desktop\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Сергей\Desktop\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Сергей\Desktop\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.WP8.dll
+C:\Users\Сергей\Desktop\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\App.g.cs
+C:\Users\Сергей\Desktop\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\GamePage.g.cs
+C:\Users\Сергей\Desktop\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.g.resources
+C:\Users\Сергей\Desktop\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v._0._1.Resources.AppResources.resources
+C:\Users\Сергей\Desktop\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.csproj.GenerateResource.Cache
+C:\Users\Сергей\Desktop\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.dll
+C:\Users\Сергей\Desktop\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.pdb
+C:\Users\Сергей\Desktop\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\XapCacheFile.xml
+C:\Users\калинин\Desktop\11.11 — копия\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\explosion.xnb
+C:\Users\калинин\Desktop\11.11 — копия\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\rocket.xnb
+C:\Users\калинин\Desktop\11.11 — копия\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\rocket_bot.xnb
+C:\Users\калинин\Desktop\11.11 — копия\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\explosprite.xnb
+C:\Users\калинин\Desktop\11.11 — копия\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\бетон30.xnb
+C:\Users\калинин\Desktop\11.11 — копия\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\орел30.xnb
+C:\Users\калинин\Desktop\11.11 — копия\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\стена30.xnb
+C:\Users\калинин\Desktop\11.11 — копия\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\Танчик30(2).xnb
+C:\Users\калинин\Desktop\11.11 — копия\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\взрыв6357.xnb
+C:\Users\калинин\Desktop\11.11 — копия\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\test.xnb
+C:\Users\калинин\Desktop\11.11 — копия\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\defend.xnb
+C:\Users\калинин\Desktop\11.11 — копия\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\star.xnb
+C:\Users\калинин\Desktop\11.11 — копия\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\live.xnb
+C:\Users\калинин\Desktop\11.11 — копия\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\gameover2.xnb
+C:\Users\калинин\Desktop\11.11 — копия\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\tankblack15.xnb
+C:\Users\калинин\Desktop\11.11 — копия\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\gray30.xnb
+C:\Users\калинин\Desktop\11.11 — копия\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\танквраг30.xnb
+C:\Users\калинин\Desktop\11.11 — копия\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\0.xnb
+C:\Users\калинин\Desktop\11.11 — копия\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\1.xnb
+C:\Users\калинин\Desktop\11.11 — копия\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\2.xnb
+C:\Users\калинин\Desktop\11.11 — копия\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\3.xnb
+C:\Users\калинин\Desktop\11.11 — копия\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\4.xnb
+C:\Users\калинин\Desktop\11.11 — копия\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\5.xnb
+C:\Users\калинин\Desktop\11.11 — копия\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\50высота.xnb
+C:\Users\калинин\Desktop\11.11 — копия\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\6.xnb
+C:\Users\калинин\Desktop\11.11 — копия\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\7.xnb
+C:\Users\калинин\Desktop\11.11 — копия\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\8.xnb
+C:\Users\калинин\Desktop\11.11 — копия\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\9.xnb
+C:\Users\калинин\Desktop\11.11 — копия\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\ApplicationIcon.png
+C:\Users\калинин\Desktop\11.11 — копия\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\калинин\Desktop\11.11 — копия\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\калинин\Desktop\11.11 — копия\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\калинин\Desktop\11.11 — копия\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\калинин\Desktop\11.11 — копия\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\калинин\Desktop\11.11 — копия\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Battte_city_v.0.1.dll
+C:\Users\калинин\Desktop\11.11 — копия\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Battte_city_v.0.1.pdb
+C:\Users\калинин\Desktop\11.11 — копия\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\AppManifest.xaml
+C:\Users\калинин\Desktop\11.11 — копия\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Properties\WMAppManifest.xml
+C:\Users\калинин\Desktop\11.11 — копия\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Battte_city_v._0._1_Debug_x86.xap
+C:\Users\калинин\Desktop\11.11 — копия\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\MonoGame.Framework.dll
+C:\Users\калинин\Desktop\11.11 — копия\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.dll
+C:\Users\калинин\Desktop\11.11 — копия\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\калинин\Desktop\11.11 — копия\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\калинин\Desktop\11.11 — копия\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.DXGI.dll
+C:\Users\калинин\Desktop\11.11 — копия\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.WP8.winmd
+C:\Users\калинин\Desktop\11.11 — копия\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.xml
+C:\Users\калинин\Desktop\11.11 — копия\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\калинин\Desktop\11.11 — копия\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\калинин\Desktop\11.11 — копия\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.DXGI.xml
+C:\Users\калинин\Desktop\11.11 — копия\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.WP8.dll
+C:\Users\калинин\Desktop\11.11 — копия\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.csprojResolveAssemblyReference.cache
+C:\Users\калинин\Desktop\11.11 — копия\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\App.g.cs
+C:\Users\калинин\Desktop\11.11 — копия\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\GamePage.g.cs
+C:\Users\калинин\Desktop\11.11 — копия\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.g.resources
+C:\Users\калинин\Desktop\11.11 — копия\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v._0._1.Resources.AppResources.resources
+C:\Users\калинин\Desktop\11.11 — копия\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.csproj.GenerateResource.Cache
+C:\Users\калинин\Desktop\11.11 — копия\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.dll
+C:\Users\калинин\Desktop\11.11 — копия\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.pdb
+C:\Users\калинин\Desktop\11.11 — копия\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\XapCacheFile.xml
+C:\Users\Сергей\Downloads\18.1F1\18.11\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\explosion.xnb
+C:\Users\Сергей\Downloads\18.1F1\18.11\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\rocket.xnb
+C:\Users\Сергей\Downloads\18.1F1\18.11\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\rocket_bot.xnb
+C:\Users\Сергей\Downloads\18.1F1\18.11\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\explosprite.xnb
+C:\Users\Сергей\Downloads\18.1F1\18.11\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\бетон30.xnb
+C:\Users\Сергей\Downloads\18.1F1\18.11\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\орел30.xnb
+C:\Users\Сергей\Downloads\18.1F1\18.11\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\стена30.xnb
+C:\Users\Сергей\Downloads\18.1F1\18.11\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\Танчик30(2).xnb
+C:\Users\Сергей\Downloads\18.1F1\18.11\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\взрыв6357.xnb
+C:\Users\Сергей\Downloads\18.1F1\18.11\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\test.xnb
+C:\Users\Сергей\Downloads\18.1F1\18.11\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\defend.xnb
+C:\Users\Сергей\Downloads\18.1F1\18.11\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\star.xnb
+C:\Users\Сергей\Downloads\18.1F1\18.11\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\live.xnb
+C:\Users\Сергей\Downloads\18.1F1\18.11\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\gameover2.xnb
+C:\Users\Сергей\Downloads\18.1F1\18.11\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\tankblack15.xnb
+C:\Users\Сергей\Downloads\18.1F1\18.11\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\gray30.xnb
+C:\Users\Сергей\Downloads\18.1F1\18.11\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\танквраг30.xnb
+C:\Users\Сергей\Downloads\18.1F1\18.11\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\0.xnb
+C:\Users\Сергей\Downloads\18.1F1\18.11\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\1.xnb
+C:\Users\Сергей\Downloads\18.1F1\18.11\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\2.xnb
+C:\Users\Сергей\Downloads\18.1F1\18.11\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\3.xnb
+C:\Users\Сергей\Downloads\18.1F1\18.11\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\4.xnb
+C:\Users\Сергей\Downloads\18.1F1\18.11\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\5.xnb
+C:\Users\Сергей\Downloads\18.1F1\18.11\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\50высота.xnb
+C:\Users\Сергей\Downloads\18.1F1\18.11\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\6.xnb
+C:\Users\Сергей\Downloads\18.1F1\18.11\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\7.xnb
+C:\Users\Сергей\Downloads\18.1F1\18.11\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\8.xnb
+C:\Users\Сергей\Downloads\18.1F1\18.11\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\9.xnb
+C:\Users\Сергей\Downloads\18.1F1\18.11\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\ApplicationIcon.png
+C:\Users\Сергей\Downloads\18.1F1\18.11\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Сергей\Downloads\18.1F1\18.11\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Сергей\Downloads\18.1F1\18.11\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Сергей\Downloads\18.1F1\18.11\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Сергей\Downloads\18.1F1\18.11\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Сергей\Downloads\18.1F1\18.11\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\button1.xnb
+C:\Users\Сергей\Downloads\18.1F1\18.11\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\button2.xnb
+C:\Users\Сергей\Downloads\18.1F1\18.11\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Battte_city_v.0.1.dll
+C:\Users\Сергей\Downloads\18.1F1\18.11\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Battte_city_v.0.1.pdb
+C:\Users\Сергей\Downloads\18.1F1\18.11\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\AppManifest.xaml
+C:\Users\Сергей\Downloads\18.1F1\18.11\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Properties\WMAppManifest.xml
+C:\Users\Сергей\Downloads\18.1F1\18.11\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Battte_city_v._0._1_Debug_x86.xap
+C:\Users\Сергей\Downloads\18.1F1\18.11\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\MonoGame.Framework.dll
+C:\Users\Сергей\Downloads\18.1F1\18.11\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.dll
+C:\Users\Сергей\Downloads\18.1F1\18.11\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Сергей\Downloads\18.1F1\18.11\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Сергей\Downloads\18.1F1\18.11\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Сергей\Downloads\18.1F1\18.11\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.WP8.winmd
+C:\Users\Сергей\Downloads\18.1F1\18.11\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.xml
+C:\Users\Сергей\Downloads\18.1F1\18.11\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Сергей\Downloads\18.1F1\18.11\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Сергей\Downloads\18.1F1\18.11\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Сергей\Downloads\18.1F1\18.11\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.WP8.dll
+C:\Users\Сергей\Downloads\18.1F1\18.11\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Downloads\18.1F1\18.11\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\App.g.cs
+C:\Users\Сергей\Downloads\18.1F1\18.11\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\GamePage.g.cs
+C:\Users\Сергей\Downloads\18.1F1\18.11\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.g.resources
+C:\Users\Сергей\Downloads\18.1F1\18.11\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v._0._1.Resources.AppResources.resources
+C:\Users\Сергей\Downloads\18.1F1\18.11\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.csproj.GenerateResource.Cache
+C:\Users\Сергей\Downloads\18.1F1\18.11\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.dll
+C:\Users\Сергей\Downloads\18.1F1\18.11\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.pdb
+C:\Users\Сергей\Downloads\18.1F1\18.11\11.11 — копия\11.11\30.10new\30.10new\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\XapCacheFile.xml
+C:\Users\калинин\Desktop\Последнии версии Танчиков\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\explosion.xnb
+C:\Users\калинин\Desktop\Последнии версии Танчиков\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\rocket.xnb
+C:\Users\калинин\Desktop\Последнии версии Танчиков\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\rocket_bot.xnb
+C:\Users\калинин\Desktop\Последнии версии Танчиков\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\explosprite.xnb
+C:\Users\калинин\Desktop\Последнии версии Танчиков\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\бетон30.xnb
+C:\Users\калинин\Desktop\Последнии версии Танчиков\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\орел30.xnb
+C:\Users\калинин\Desktop\Последнии версии Танчиков\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\стена30.xnb
+C:\Users\калинин\Desktop\Последнии версии Танчиков\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\Танчик30(2).xnb
+C:\Users\калинин\Desktop\Последнии версии Танчиков\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\взрыв6357.xnb
+C:\Users\калинин\Desktop\Последнии версии Танчиков\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\test.xnb
+C:\Users\калинин\Desktop\Последнии версии Танчиков\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\defend.xnb
+C:\Users\калинин\Desktop\Последнии версии Танчиков\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\star.xnb
+C:\Users\калинин\Desktop\Последнии версии Танчиков\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\live.xnb
+C:\Users\калинин\Desktop\Последнии версии Танчиков\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\gameover2.xnb
+C:\Users\калинин\Desktop\Последнии версии Танчиков\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\tankblack15.xnb
+C:\Users\калинин\Desktop\Последнии версии Танчиков\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\gray30.xnb
+C:\Users\калинин\Desktop\Последнии версии Танчиков\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\танквраг30.xnb
+C:\Users\калинин\Desktop\Последнии версии Танчиков\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\0.xnb
+C:\Users\калинин\Desktop\Последнии версии Танчиков\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\1.xnb
+C:\Users\калинин\Desktop\Последнии версии Танчиков\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\2.xnb
+C:\Users\калинин\Desktop\Последнии версии Танчиков\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\3.xnb
+C:\Users\калинин\Desktop\Последнии версии Танчиков\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\4.xnb
+C:\Users\калинин\Desktop\Последнии версии Танчиков\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\5.xnb
+C:\Users\калинин\Desktop\Последнии версии Танчиков\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\50высота.xnb
+C:\Users\калинин\Desktop\Последнии версии Танчиков\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\6.xnb
+C:\Users\калинин\Desktop\Последнии версии Танчиков\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\7.xnb
+C:\Users\калинин\Desktop\Последнии версии Танчиков\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\8.xnb
+C:\Users\калинин\Desktop\Последнии версии Танчиков\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\9.xnb
+C:\Users\калинин\Desktop\Последнии версии Танчиков\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\button1.xnb
+C:\Users\калинин\Desktop\Последнии версии Танчиков\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\button2.xnb
+C:\Users\калинин\Desktop\Последнии версии Танчиков\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\ApplicationIcon.png
+C:\Users\калинин\Desktop\Последнии версии Танчиков\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\калинин\Desktop\Последнии версии Танчиков\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\калинин\Desktop\Последнии версии Танчиков\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\калинин\Desktop\Последнии версии Танчиков\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\калинин\Desktop\Последнии версии Танчиков\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\калинин\Desktop\Последнии версии Танчиков\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Battte_city_v.0.1.dll
+C:\Users\калинин\Desktop\Последнии версии Танчиков\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Battte_city_v.0.1.pdb
+C:\Users\калинин\Desktop\Последнии версии Танчиков\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\AppManifest.xaml
+C:\Users\калинин\Desktop\Последнии версии Танчиков\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Properties\WMAppManifest.xml
+C:\Users\калинин\Desktop\Последнии версии Танчиков\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Battte_city_v._0._1_Debug_x86.xap
+C:\Users\калинин\Desktop\Последнии версии Танчиков\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\MonoGame.Framework.dll
+C:\Users\калинин\Desktop\Последнии версии Танчиков\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.dll
+C:\Users\калинин\Desktop\Последнии версии Танчиков\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\калинин\Desktop\Последнии версии Танчиков\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\калинин\Desktop\Последнии версии Танчиков\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.DXGI.dll
+C:\Users\калинин\Desktop\Последнии версии Танчиков\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.WP8.winmd
+C:\Users\калинин\Desktop\Последнии версии Танчиков\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.xml
+C:\Users\калинин\Desktop\Последнии версии Танчиков\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\калинин\Desktop\Последнии версии Танчиков\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\калинин\Desktop\Последнии версии Танчиков\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.DXGI.xml
+C:\Users\калинин\Desktop\Последнии версии Танчиков\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.WP8.dll
+C:\Users\калинин\Desktop\Последнии версии Танчиков\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.csprojResolveAssemblyReference.cache
+C:\Users\калинин\Desktop\Последнии версии Танчиков\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\App.g.cs
+C:\Users\калинин\Desktop\Последнии версии Танчиков\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\GamePage.g.cs
+C:\Users\калинин\Desktop\Последнии версии Танчиков\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.g.resources
+C:\Users\калинин\Desktop\Последнии версии Танчиков\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v._0._1.Resources.AppResources.resources
+C:\Users\калинин\Desktop\Последнии версии Танчиков\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.csproj.GenerateResource.Cache
+C:\Users\калинин\Desktop\Последнии версии Танчиков\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.dll
+C:\Users\калинин\Desktop\Последнии версии Танчиков\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.pdb
+C:\Users\калинин\Desktop\Последнии версии Танчиков\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\XapCacheFile.xml
+C:\Users\калинин\Desktop\Последнии версии Танчиков\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\вспышка16(30 на 480).xnb
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_neww (2)\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\explosion.xnb
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_neww (2)\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\rocket.xnb
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_neww (2)\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\rocket_bot.xnb
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_neww (2)\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\explosprite.xnb
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_neww (2)\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\бетон30.xnb
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_neww (2)\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\орел30.xnb
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_neww (2)\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\стена30.xnb
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_neww (2)\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\Танчик30(2).xnb
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_neww (2)\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\взрыв6357.xnb
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_neww (2)\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\test.xnb
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_neww (2)\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\defend.xnb
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_neww (2)\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\star.xnb
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_neww (2)\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\live.xnb
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_neww (2)\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\gameover2.xnb
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_neww (2)\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\tankblack15.xnb
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_neww (2)\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\gray30.xnb
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_neww (2)\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\танквраг30.xnb
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_neww (2)\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\0.xnb
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_neww (2)\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\1.xnb
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_neww (2)\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\2.xnb
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_neww (2)\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\3.xnb
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_neww (2)\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\4.xnb
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_neww (2)\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\5.xnb
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_neww (2)\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\50высота.xnb
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_neww (2)\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\6.xnb
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_neww (2)\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\7.xnb
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_neww (2)\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\8.xnb
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_neww (2)\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\9.xnb
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_neww (2)\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\button1.xnb
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_neww (2)\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\вспышка16(30 на 480).xnb
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_neww (2)\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\ApplicationIcon.png
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_neww (2)\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_neww (2)\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_neww (2)\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_neww (2)\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_neww (2)\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_neww (2)\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\battle.xnb
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_neww (2)\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Battte_city_v.0.1.dll
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_neww (2)\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Battte_city_v.0.1.pdb
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_neww (2)\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\AppManifest.xaml
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_neww (2)\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Properties\WMAppManifest.xml
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_neww (2)\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Battte_city_v._0._1_Debug_x86.xap
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_neww (2)\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\MonoGame.Framework.dll
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_neww (2)\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.dll
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_neww (2)\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_neww (2)\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_neww (2)\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_neww (2)\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.WP8.winmd
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_neww (2)\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.xml
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_neww (2)\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_neww (2)\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_neww (2)\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_neww (2)\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\SharpDX.WP8.dll
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_neww (2)\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_neww (2)\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\App.g.cs
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_neww (2)\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\GamePage.g.cs
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_neww (2)\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.g.resources
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_neww (2)\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v._0._1.Resources.AppResources.resources
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_neww (2)\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.csproj.GenerateResource.Cache
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_neww (2)\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.dll
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_neww (2)\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\Battte_city_v.0.1.pdb
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_neww (2)\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\obj\x86\Debug\XapCacheFile.xml
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_neww (2)\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\0w.xnb
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_neww (2)\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\1w.xnb
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_neww (2)\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\2w.xnb
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_neww (2)\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\3w.xnb
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_neww (2)\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\4w.xnb
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_neww (2)\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\5w.xnb
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_neww (2)\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\6w.xnb
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_neww (2)\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\7w.xnb
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_neww (2)\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\8w.xnb
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_neww (2)\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\9w.xnb
+C:\Users\Сергей\Downloads\Battte_city_v.0.1_neww (2)\Battte_city_v.0.1_neww\Battte_city_v.0.1_neww\Battte_city_v.0.1\bin\WindowsPhone\x86\Debug\Content\score.xnb
